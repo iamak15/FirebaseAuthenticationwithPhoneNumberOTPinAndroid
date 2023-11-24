@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892357340856",
+    "project_id": "phoneauthentication-68e94",
+    "storage_bucket": "phoneauthentication-68e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892357340856:android:ad8b59bcaf6c333ad50e4d",
+        "android_client_info": {
+          "package_name": "com.example.firebasephone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEz5Aq3a0YhOD3zmUNwlbp5InnZZLUdDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892357340856:android:c3974a836d517444d50e4d",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEz5Aq3a0YhOD3zmUNwlbp5InnZZLUdDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
